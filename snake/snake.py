@@ -27,8 +27,8 @@ HEAD_COLOR = BLUE
 APPLE_COLOR = RED
 FONT_COLOR = BLACK
 BORDER_COLOR = BLACK
-whiskuImage = pygame.image.load('cat.png')
-crantanici = pygame.image.load('crantanele.png')
+whiskuImage = pygame.image.load('e:\Licenta_Python\\LicentaPython\\snake\\cat.png')
+crantanici = pygame.image.load('e:\Licenta_Python\\LicentaPython\\snake\\crantanele.png')
 
 pygame.init()
 screen = pygame.display.set_mode((WIDTH + RIGHT_SIDEBAR_WIDTH, HEIGHT))

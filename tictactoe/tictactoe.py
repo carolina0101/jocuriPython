@@ -42,8 +42,8 @@ for x in range(3):
     row = [0] * 3
     markers.append(row)
 
-pisic = pygame.image.load('caty.png')
-soricel = pygame.image.load('mouse.png')
+pisic = pygame.image.load('e:\Licenta_Python\\LicentaPython\\tictactoe\\caty.png')
+soricel = pygame.image.load('e:\Licenta_Python\\LicentaPython\\tictactoe\\mouse.png')
 
 def draw_pisic(x ,y ):
     screen.blit(pisic,(x,y))
